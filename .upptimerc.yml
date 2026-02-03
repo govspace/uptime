@@ -5,22 +5,21 @@ repo: uptime # The name of this repository
 sites:
   - name: Landing Page
     url: https://govspace.io/
+    maxResponseTime: 5000  # Mark as degraded if > 5 seconds
   - name: Web App
     url: https://app.govspace.io/
+    maxResponseTime: 5000  # Mark as degraded if > 5 seconds
   - name: API Server
-    url: https://api.govspace.io/
+    url: https://api.govspace.io/health
+    maxResponseTime: 5000  # Mark as degraded if > 5 seconds
   - name: Recommendation Engine
-    url: https://rec.govspace.io/
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+    url: https://rec.govspace.io/health
+    maxResponseTime: 5000  # Mark as degraded if > 5 seconds
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.govspace.io
+  # cname: status.govspace.io
   # baseUrl: /your-repo-name
   logoUrl: https://ci3.googleusercontent.com/meips/ADKq_NZXBiuJNAsE3mjp5mWPVb9s6CDMT6fpQ3arc9toM8rMcMBH21byg3d41cpQdJ891bE_sEfpozei92XQsnRk0wj9HQDYcRHAhkOBOYCHdg=s0-d-e1-ft#https://cdn.govspace.io/app/logos/govspace-dark-text.png
   name: GovSpace Status
