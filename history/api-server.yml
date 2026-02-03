@@ -1,7 +1,7 @@
 url: https://api.govspace.io/health
-status: down
-code: 404
-responseTime: 228
-lastUpdated: 2026-02-03T23:21:01.409Z
+status: up
+code: 200
+responseTime: 143
+lastUpdated: 2026-02-03T23:44:48.886Z
 startTime: 2026-02-03T19:49:32.650Z
 generator: Upptime <https://github.com/upptime/upptime>
