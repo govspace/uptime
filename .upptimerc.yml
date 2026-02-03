@@ -1,16 +1,16 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: govspace # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Landing Page
+    url: https://govspace.io/
+  - name: Web App
+    url: https://app.govspace.io/
+  - name: API Server
+    url: https://api.govspace.io/
+  - name: Recommendation Engine
+    url: https://rec.govspace.io/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -20,17 +20,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.govspace.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://ci3.googleusercontent.com/meips/ADKq_NZXBiuJNAsE3mjp5mWPVb9s6CDMT6fpQ3arc9toM8rMcMBH21byg3d41cpQdJ891bE_sEfpozei92XQsnRk0wj9HQDYcRHAhkOBOYCHdg=s0-d-e1-ft#https://cdn.govspace.io/app/logos/govspace-dark-text.png
+  name: GovSpace Status
+  introTitle: "GovSpace System Status"
+  introMessage: Real-time availability monitoring for GovSpace services. This page automatically updates every few minutes to show the current operational status of our platform.
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Login
+      href: https://app.govspace.io/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
