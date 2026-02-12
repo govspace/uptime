@@ -58,7 +58,7 @@
     "url": "https://rec.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/rec.govspace.io.ico",
     "slug": "recommendation-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 168,
     "timeMonth": 167,
     "timeYear": 167,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-12": 0
+    }
   }
 ]
