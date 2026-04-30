@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/govspace.io.ico",
     "slug": "landing-page",
     "status": "up",
-    "uptime": "97.12%",
+    "uptime": "97.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "64.92%",
     "uptimeMonth": "91.93%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.15%",
     "time": 661,
     "timeDay": 649,
     "timeWeek": 799,
@@ -62,7 +62,7 @@
     "url": "https://rec.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/rec.govspace.io.ico",
     "slug": "recommendation-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,6 +74,7 @@
     "timeMonth": 171,
     "timeYear": 169,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2026-02-12": 37
     }
   }
