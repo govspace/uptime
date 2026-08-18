@@ -4,9 +4,9 @@
     "url": "https://govspace.io/",
     "icon": "https://icons.duckduckgo.com/ip3/govspace.io.ico",
     "slug": "landing-page",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.74%",
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-04-27": 902,
       "2026-04-26": 1440,
-      "2026-04-25": 1195
+      "2026-04-25": 1195,
+      "2026-08-18": 1
     }
   },
   {
@@ -44,41 +45,44 @@
     "url": "https://api.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.govspace.io.ico",
     "slug": "api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 280,
-    "timeWeek": 165,
-    "timeMonth": 183,
+    "timeDay": 211,
+    "timeWeek": 162,
+    "timeMonth": 181,
     "timeYear": 162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-18": 0
+    }
   },
   {
     "name": "Recommendation Engine",
     "url": "https://rec.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/rec.govspace.io.ico",
     "slug": "recommendation-engine",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 193,
-    "timeDay": 261,
-    "timeWeek": 165,
-    "timeMonth": 192,
-    "timeYear": 193,
+    "time": 192,
+    "timeDay": 202,
+    "timeWeek": 162,
+    "timeMonth": 190,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2026-02-12": 37,
       "2026-05-01": 160,
       "2026-04-30": 51,
       "2026-07-15": 890,
-      "2026-07-14": 27
+      "2026-07-14": 27,
+      "2026-08-18": 0
     }
   }
 ]
