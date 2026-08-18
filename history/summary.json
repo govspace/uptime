@@ -4,22 +4,22 @@
     "url": "https://govspace.io/",
     "icon": "https://icons.duckduckgo.com/ip3/govspace.io.ico",
     "slug": "landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.74%",
-    "time": 687,
-    "timeDay": 772,
-    "timeWeek": 703,
-    "timeMonth": 730,
-    "timeYear": 687,
+    "time": 686,
+    "timeDay": 685,
+    "timeWeek": 690,
+    "timeMonth": 726,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2026-04-27": 902,
       "2026-04-26": 1440,
       "2026-04-25": 1195,
-      "2026-08-18": 1
+      "2026-08-18": 13
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://api.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.govspace.io.ico",
     "slug": "api-server",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 211,
-    "timeWeek": 162,
-    "timeMonth": 181,
+    "timeDay": 205,
+    "timeWeek": 166,
+    "timeMonth": 182,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2026-08-18": 0
+      "2026-08-18": 13
     }
   },
   {
@@ -65,15 +65,15 @@
     "url": "https://rec.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/rec.govspace.io.ico",
     "slug": "recommendation-engine",
-    "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.58%",
     "time": 192,
-    "timeDay": 202,
-    "timeWeek": 162,
+    "timeDay": 194,
+    "timeWeek": 164,
     "timeMonth": 190,
     "timeYear": 192,
     "dailyMinutesDown": {
@@ -82,7 +82,7 @@
       "2026-04-30": 51,
       "2026-07-15": 890,
       "2026-07-14": 27,
-      "2026-08-18": 0
+      "2026-08-18": 13
     }
   }
 ]
