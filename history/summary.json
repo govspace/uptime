@@ -6,9 +6,9 @@
     "slug": "landing-page",
     "status": "degraded",
     "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.84%",
     "time": 782,
     "timeDay": 10136,
@@ -18,7 +18,9 @@
     "dailyMinutesDown": {
       "2026-04-27": 902,
       "2026-04-26": 1440,
-      "2026-04-25": 1195
+      "2026-04-25": 1195,
+      "2026-09-03": 2,
+      "2026-09-02": 1
     }
   },
   {
