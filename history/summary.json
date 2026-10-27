@@ -66,24 +66,24 @@
     "url": "https://rec.govspace.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/rec.govspace.io.ico",
     "slug": "recommendation-engine",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.69%",
-    "time": 393,
-    "timeDay": 19116,
-    "timeWeek": 6509,
-    "timeMonth": 1963,
-    "timeYear": 393,
+    "status": "degraded",
+    "uptime": "99.70%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.70%",
+    "time": 482,
+    "timeDay": 20668,
+    "timeWeek": 8391,
+    "timeMonth": 2671,
+    "timeYear": 482,
     "dailyMinutesDown": {
       "2026-02-12": 37,
       "2026-05-01": 160,
       "2026-04-30": 51,
       "2026-07-15": 890,
       "2026-07-14": 27,
-      "2026-10-27": 4
+      "2026-10-27": 0
     }
   }
 ]
