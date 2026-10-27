@@ -1,7 +1,7 @@
 url: https://rec.govspace.io/health
-status: degraded
+status: up
 code: 200
-responseTime: 25326
-lastUpdated: 2026-10-27T19:17:27.893Z
+responseTime: 147
+lastUpdated: 2026-10-27T19:26:17.104Z
 startTime: 2026-02-03T19:49:34.954Z
 generator: Upptime <https://github.com/upptime/upptime>
